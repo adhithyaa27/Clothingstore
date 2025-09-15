@@ -281,9 +281,5 @@ npm run dev
 4. **Push** to the branch (`git push origin feature-xyz`).
 5. **Open a Pull Request**.
 
----
-## 📞 Connect With Me
-📧 Email: sudhanssudhan83@gmail.com  
-🌐 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/sudhan-s-a76b8b297/)  
-🐙 GitHub: [GitHub Profile](https://github.com/sudhan1112)  
+--- 
 
